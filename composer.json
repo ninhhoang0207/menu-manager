@@ -30,8 +30,5 @@
             }
         }
     },
-    "minimum-stability": "dev",
-    "require": {
-        "manager/menu-manager": "dev"
-    }
+    "minimum-stability": "dev"
 }
